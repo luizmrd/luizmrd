@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=&section=header"/>
+<hr>
 
 
 
@@ -27,3 +27,4 @@ Estudante de Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muit
 </picture>
 
 ###
+<hr>
