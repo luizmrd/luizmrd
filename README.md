@@ -7,7 +7,7 @@
 
 
  <h2>Sobre mim</h2> 
-Estudante de Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.
+Estudante de Desenvolvimento de Sistemas e apaixonado pro tecnologia.
 
 
 ## Aprendendo <img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
